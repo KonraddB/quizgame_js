@@ -18,7 +18,7 @@ const quiz = [
     },
     {
         q:'Które polecenie w flexbox centruje w pionie?',
-        options:['justify-content:center','align-items:center],
+        options:['justify-content:center','align-items:center'],
         answer:1
     },
     {
